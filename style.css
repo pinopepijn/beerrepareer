@@ -16,8 +16,8 @@ body{
 	background-image:url(https://upload.wikimedia.org/wikipedia/commons/7/71/2010-kodiak-bear-1.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
-	background-position:center -110px;
-	padding: 150px 20px 70px 20px;
+	background-position:center -150px;
+	padding: 100px 20px 0px 20px;
 }
 
 .main-nav a{
@@ -29,12 +29,12 @@ body{
 	text-decoration:none;
 	padding: 5px 10px;
 	position:relative;
-	top:70px;
-	transition: top 300ms ease;
+	top:10px;
+	transition: bottom 300ms ease;
 }
 
 .main-nav a:hover{
-	top:5px;
+	top:0px;
 }
 
 .page-content{
